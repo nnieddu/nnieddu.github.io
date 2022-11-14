@@ -78,7 +78,7 @@ nav.navbar.scrolled {
 }
 .contactMeBtn {
   background: hsla(0, 0%, 85%, 0.1);
-  border: 1px solid hsla(0, 0%, 100%, 0.5);
+  border: 10px solid hsla(0, 0%, 100%, 0.5);
   border-radius: 12px;
   color: #fff;
   font-size: 1rem;
