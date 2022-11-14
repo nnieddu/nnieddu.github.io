@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe402725.css",
-    "main.js": "/static/js/main.9809d175.js",
+    "main.css": "/static/css/main.fc844c37.css",
+    "main.js": "/static/js/main.63a85dc8.js",
     "static/js/496.837496b5.chunk.js": "/static/js/496.837496b5.chunk.js",
     "static/media/cv-site-proj.png": "/static/media/cv-site-proj.24cd913e8585125cc3d7.png",
-    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/earth-map.png": "/static/media/earth-map.feb5bfb7119f04f76863.png",
     "static/media/docker-original.svg": "/static/media/docker-original.1d41320cb0101dbbc6fe182abd590263.svg",
     "static/media/us.svg": "/static/media/us.c9b8adf8a5cbb9c979c0854e5ae84757.svg",
@@ -28,12 +28,12 @@
     "index.html": "/index.html",
     "static/media/c-original.svg": "/static/media/c-original.13f24c473f4fd7f944b1410cc8058a89.svg",
     "static/media/html5-original.svg": "/static/media/html5-original.8664168d5bc90b1a24396f85aadbf623.svg",
-    "main.fe402725.css.map": "/static/css/main.fe402725.css.map",
-    "main.9809d175.js.map": "/static/js/main.9809d175.js.map",
+    "main.fc844c37.css.map": "/static/css/main.fc844c37.css.map",
+    "main.63a85dc8.js.map": "/static/js/main.63a85dc8.js.map",
     "496.837496b5.chunk.js.map": "/static/js/496.837496b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe402725.css",
-    "static/js/main.9809d175.js"
+    "static/css/main.fc844c37.css",
+    "static/js/main.63a85dc8.js"
   ]
 }
