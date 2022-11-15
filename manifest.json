@@ -1,6 +1,6 @@
 {
-  "short_name": "Nicolas NIEDDU portfolio",
-  "name": "Create React App Sample",
+  "name": "Nicolas NIEDDU portfolio",
+  "short_name": "My portfolio",
   "icons": [
     {
       "src": "favicon.ico",
