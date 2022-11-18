@@ -21,7 +21,7 @@ https://fdossena.com/
 for this js library to made a space effect with canvas easy :
 https://fdossena.com/?p=warpspeed/i.frag
   
-### Bootstrap :
+### Bootstrap (react-bootstrap 2.6 ):
 Thank's to Bootstrap and Bootstrap's community :
 https://react-bootstrap.github.io  
 https://getbootstrap.com/docs/5.2/  
