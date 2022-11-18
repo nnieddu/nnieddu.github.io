@@ -1,3 +1,9 @@
+# Portfolio
+
+## This portfolio was made with React JS and React router 18.2
+  
+## External assets or library :
+
 ### Flags icons
 Thank's to :
 https://flagicons.lipis.dev/
@@ -25,3 +31,6 @@ Thank's to Deyvid Bustos (Cartalan), I juste custimise a little bit this :
 https://www.sololearn.com/compiler-playground/WAO1FXwmPOqv/  
 https://raw.githubusercontent.com/cartalan/
   
+### Some animations :
+Thank's to :
+https://animate.style/
