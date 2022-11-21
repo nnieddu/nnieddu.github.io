@@ -1,6 +1,6 @@
 # Portfolio
 
-## This portfolio was made with React JS and React router 18.2
+## This portfolio was made with React JS and React router 18.2, styled with Sass and build with webpack.
   
 ## External assets or library :
 
