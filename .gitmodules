@@ -1,3 +1,6 @@
 [submodule "cv"]
 	path = cv
 	url = https://github.com/nnieddu/cvSite
+[submodule "responsiveCvSiteMaker"]
+	path = responsiveCvSiteMaker
+	url = https://github.com/nnieddu/responsiveCvSiteMaker
