@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.08707c9d.css",
-    "main.js": "/static/js/main.ba02558e.js",
+    "main.js": "/static/js/main.3ea0bc69.js",
     "static/js/496.837496b5.chunk.js": "/static/js/496.837496b5.chunk.js",
+    "static/media/philosophers.png": "/static/media/philosophers.616ef8a19a097a713151.png",
     "static/media/cv-site-proj.png": "/static/media/cv-site-proj.601a4aa4706a2541dd98.png",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/earth-map.png": "/static/media/earth-map.feb5bfb7119f04f76863.png",
     "static/media/sass-original.svg": "/static/media/sass-original.fb123914eb0e5cc6e0a65e2928d89e2a.svg",
-    "static/media/binaryTree.svg": "/static/media/binaryTree.2db3904d9193f89c0133d0cad4b35528.svg",
+    "static/media/binaryTree.svg": "/static/media/binaryTree.cbb1709b252490685a5349114bbd1ac9.svg",
     "static/media/docker-original.svg": "/static/media/docker-original.1d41320cb0101dbbc6fe182abd590263.svg",
-    "static/media/undrawCat.svg": "/static/media/undrawCat.219f084820bfbd85b5364a2d2d44d3c3.svg",
     "static/media/terminal.svg": "/static/media/terminal.0aa91ac727763e9f994d56077d75915b.svg",
     "static/media/chat.svg": "/static/media/chat.e9538c24a9e52eb8edc3a5c875d083c1.svg",
+    "static/media/cube.svg": "/static/media/cube.ed7c3748108969ace16a913fd1859353.svg",
     "static/media/hammer.svg": "/static/media/hammer.aef2dba58314b0bb7bab461779fce044.svg",
     "static/media/react-original.svg": "/static/media/react-original.4e0c97009b885bfa75c5412262a46f5f.svg",
     "static/media/discord-icon.svg": "/static/media/discord-icon.4706014448cc93a0c99f14664a1b9ecd.svg",
@@ -21,8 +22,10 @@
     "static/media/bash-original.svg": "/static/media/bash-original.755ddaf59ce7e6812b4e0151700dc894.svg",
     "static/media/logoNN.svg": "/static/media/logoNN.062f117f5f2a7b8b3e00990cb9d22b7e.svg",
     "index.html": "/index.html",
+    "static/media/stack.svg": "/static/media/stack.4f1292f9d7b6144da66cdd06e0d3952f.svg",
     "static/media/linuxContainers.svg": "/static/media/linuxContainers.914a660521bd284931c1f73d35768fd4.svg",
     "static/media/javascript-original.svg": "/static/media/javascript-original.4c1b5332c1b1057928f6f06cf972c91c.svg",
+    "static/media/cluster.svg": "/static/media/cluster.4d9490b60729405a5848e5531f2bfdbc.svg",
     "static/media/typescript-original.svg": "/static/media/typescript-original.8d9549db1a0f5d73a35aa5dab48a09f9.svg",
     "static/media/github-icon.svg": "/static/media/github-icon.c20f846ca8a89ff1ed756cb4670e9bd0.svg",
     "static/media/arrow-up.svg": "/static/media/arrow-up.d42275da444b426f861c6c1723a1bcc6.svg",
@@ -34,11 +37,11 @@
     "static/media/html5-original.svg": "/static/media/html5-original.8664168d5bc90b1a24396f85aadbf623.svg",
     "static/media/42_Logo.min.svg": "/static/media/42_Logo.min.623b205e906407e73bcc4543cf876b89.svg",
     "main.08707c9d.css.map": "/static/css/main.08707c9d.css.map",
-    "main.ba02558e.js.map": "/static/js/main.ba02558e.js.map",
+    "main.3ea0bc69.js.map": "/static/js/main.3ea0bc69.js.map",
     "496.837496b5.chunk.js.map": "/static/js/496.837496b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08707c9d.css",
-    "static/js/main.ba02558e.js"
+    "static/js/main.3ea0bc69.js"
   ]
 }
