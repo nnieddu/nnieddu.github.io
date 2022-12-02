@@ -5,7 +5,7 @@
 
 First of all, we need to define and get our playing area and our basic needs.
   
-```
+```html
 <body>
   <div id="playingArea" oncontextmenu="return false;">
 </div>
@@ -17,7 +17,7 @@ serve to avoid / prevent default browser/os contextual menu.
   
 A simple GUI to view units/building infos, ressources available and building/units cost  
 
-```
+```html
 <footer id="bar-bottom" class="gui bar-bottom">
   <div class="unitIconArea">
       <div id="unitIcon" class="unitIcon"></div>
