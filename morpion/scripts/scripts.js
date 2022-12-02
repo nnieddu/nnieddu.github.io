@@ -3,7 +3,7 @@
 var playerChoise = false;
 var playerTurn = 0;
 var audio;
-var clickShort = new Audio("morpion/medias/ui-clickShort.mp3");
+var clickShort = new Audio("/medias/ui-clickShort.mp3");
 var themeChoosen = 0;
 
 window.onload = (event) => {
@@ -209,7 +209,7 @@ OnEvent(document).on("click", ".game-btn", function (e) {
     playerTurn++;
     if (checkWin(player)) {
       isFinish = 1;
-      audio = new Audio("morpion/medias/victory.mp3");
+      audio = new Audio("/medias/victory.mp3");
       audio.play();
       openModal("Bravo ! C'est gagné :)");
       var delayInMilliseconds = 2500;
@@ -222,7 +222,7 @@ OnEvent(document).on("click", ".game-btn", function (e) {
     iaMove(playerChoise);
     if (checkWin(aiPlayer)) {
       isFinish = 1;
-      audio = new Audio("morpion/medias/loose-arcade.mp3");
+      audio = new Audio("/medias/loose-arcade.mp3");
       audio.play();
       openModal("Aie ! C'est perdu..");
       var delayInMilliseconds = 2500;
@@ -234,7 +234,7 @@ OnEvent(document).on("click", ".game-btn", function (e) {
     }
     if (playerTurn == 5) {
       isFinish = 1;
-      audio = new Audio("morpion/medias/hit.mp3");
+      audio = new Audio("/medias/hit.mp3");
       audio.play();
       openModal("Egalité !");
       var delayInMilliseconds = 2500;
