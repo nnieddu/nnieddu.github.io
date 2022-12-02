@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.62019618.css",
-    "main.js": "/static/js/main.567fe2d5.js",
+    "main.js": "/static/js/main.01346864.js",
     "static/js/496.837496b5.chunk.js": "/static/js/496.837496b5.chunk.js",
     "static/media/philosophers.png": "/static/media/philosophers.616ef8a19a097a713151.png",
     "static/media/cv-site-proj.png": "/static/media/cv-site-proj.601a4aa4706a2541dd98.png",
@@ -41,11 +41,11 @@
     "static/media/html5-original.svg": "/static/media/html5-original.8664168d5bc90b1a24396f85aadbf623.svg",
     "static/media/42_Logo.min.svg": "/static/media/42_Logo.min.623b205e906407e73bcc4543cf876b89.svg",
     "main.62019618.css.map": "/static/css/main.62019618.css.map",
-    "main.567fe2d5.js.map": "/static/js/main.567fe2d5.js.map",
+    "main.01346864.js.map": "/static/js/main.01346864.js.map",
     "496.837496b5.chunk.js.map": "/static/js/496.837496b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62019618.css",
-    "static/js/main.567fe2d5.js"
+    "static/js/main.01346864.js"
   ]
 }
