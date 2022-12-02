@@ -1,0 +1,163 @@
+:root {
+		--button-color: #4caf50;
+		--button-color-hover: #3e8e41;
+
+		--main-bg-color: #363535;
+		--main-police-color: #f8f8f8;
+
+		--modal-bg-color: #f8f8f8;
+		--modal-overlay-bg: rgba(0, 0, 0, 0.6);
+		--modal-police-color: #111111;
+		--close-modal-button: #333;
+
+		--gradient-1: rgba(17, 17, 17, 1) -10%;
+		--gradient-2: rgba(51, 51, 51, 1) 65%;
+		--cool:#398bdd;
+}
+
+html {  height: 100%;
+  width: 100%;
+}
+body {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: var(--main-bg-color);
+  color: var(--main-police-color);
+  text-align: center;
+	display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+
+nav {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background: linear-gradient(0, var(--gradient-1), var(--gradient-2));
+}
+nav a{
+	cursor: pointer;
+	transition: 1.5s;
+}
+nav a:hover{
+	letter-spacing: 0.5px;
+}
+
+#content {
+  flex: 1 0 auto;
+}
+
+#gameGrid {
+  visibility: hidden;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+	margin: auto;
+	gap: 3px;
+  height: 30vw;
+  width: 30vw;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  left: 0;
+
+	height: 50px;
+	flex-shrink: 0;
+  background: linear-gradient(-180deg, var(--gradient-1), var(--gradient-2));
+}
+
+/* /////////////////////////// */
+/* ////// MODAL ////////////// */
+/* /////////////////////////// */
+
+.hidden {
+  display: none;
+}
+
+#modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 30%;
+	color: var(--modal-police-color);
+  font-size: 1.5rem;
+  background-color: var(--modal-bg-color);
+  padding: 5rem;
+  border-radius: 5px;
+  box-shadow: 0 3rem 5rem rgba(0, 0, 0, 0.3);
+  z-index: 10;
+}
+
+#overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: var(--modal-overlay-bg);
+  backdrop-filter: blur(3px);
+  z-index: 5;
+}
+
+
+/* /////////////////////////// */
+/* ////// GAME BUTTONS//////// */
+/* /////////////////////////// */
+.game-btn:hover {
+  background-color: var(--button-color-hover);
+}
+
+.game-btn:active {
+  background-color: var(--button-color-hover);
+  box-shadow: unset;
+  transform: translateY(3px);
+}
+
+.game-btn {
+  font-size: 3rem;
+  cursor: pointer;
+  color: var(--main-police-color);
+  background-color: var(--button-color);
+  border-radius: 15px;
+  box-shadow: 0 4px #999;
+}
+
+
+.choice-btn:hover {
+  background-color: var(--button-color-hover);
+}
+
+.choice-btn:active {
+  transform: translateY(2px);
+}
+
+.choice-btn {
+	padding: 15px 25px;
+	margin-bottom: 20px;
+  font-size: 2.5rem;
+  cursor: pointer;
+  color: var(--main-police-color);
+  background-color: var(--button-color);
+  border-radius: 8px;
+}
+
+
+#resetButton {
+	margin-top: 35px;
+  font-size: 2rem;
+  visibility: hidden;
+}
+
+#changeButton {
+	margin-top: 35px;
+  font-size: 2rem;
+  visibility: hidden;
+}
