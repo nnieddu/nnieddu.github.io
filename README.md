@@ -1,7 +1,8 @@
 # Portfolio
 
 ## This portfolio was made with React JS and React router 18.2, styled with Sass and build with webpack.
-  
+### No CSS library use, all the responsive is done handly (tested with Chrome and Mozilla)  
+
 ## External assets or library :
 
 ### Flags icons

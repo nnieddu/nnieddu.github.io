@@ -1,4 +1,4 @@
-# RTS game in Javascript
+# RTS game using DOM in vanilla Javascript
 
 #### I love strategy games so i decided to made an RTS engine and a game in javascript.
 
