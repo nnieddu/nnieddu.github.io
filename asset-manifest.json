@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5bc8e0d8.css",
-    "main.js": "/static/js/main.59e8a5e0.js",
+    "main.js": "/static/js/main.526db07e.js",
     "static/js/496.837496b5.chunk.js": "/static/js/496.837496b5.chunk.js",
     "static/media/philosophers.png": "/static/media/philosophers.616ef8a19a097a713151.png",
     "static/media/cv-site-proj.png": "/static/media/cv-site-proj.601a4aa4706a2541dd98.png",
@@ -11,7 +11,6 @@
     "static/media/binaryTree.svg": "/static/media/binaryTree.2db3904d9193f89c0133d0cad4b35528.svg",
     "static/media/docker-original.svg": "/static/media/docker-original.1d41320cb0101dbbc6fe182abd590263.svg",
     "static/media/us.svg": "/static/media/us.241b539820c9c5f18f9212f1fbd38d8a.svg",
-    "static/media/blog.svg": "/static/media/blog.0acb0e64dc93ae44632cfea5bd34d1f1.svg",
     "static/media/terminal.svg": "/static/media/terminal.0aa91ac727763e9f994d56077d75915b.svg",
     "static/media/morpion.svg": "/static/media/morpion.6f274e0fc5ce780f1e40fa0c4039c5f1.svg",
     "static/media/chat.svg": "/static/media/chat.e9538c24a9e52eb8edc3a5c875d083c1.svg",
@@ -43,11 +42,11 @@
     "static/media/42_Logo.min.svg": "/static/media/42_Logo.min.623b205e906407e73bcc4543cf876b89.svg",
     "static/media/fr.svg": "/static/media/fr.1a70e3178642a4ea4496fc48e6eec67f.svg",
     "main.5bc8e0d8.css.map": "/static/css/main.5bc8e0d8.css.map",
-    "main.59e8a5e0.js.map": "/static/js/main.59e8a5e0.js.map",
+    "main.526db07e.js.map": "/static/js/main.526db07e.js.map",
     "496.837496b5.chunk.js.map": "/static/js/496.837496b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5bc8e0d8.css",
-    "static/js/main.59e8a5e0.js"
+    "static/js/main.526db07e.js"
   ]
 }
