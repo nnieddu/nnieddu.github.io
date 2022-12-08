@@ -1,6 +1,6 @@
 # Dev Blog  
   
-## This Blog was made int TypeScript with React JS, styled with Sass, Bootstrap and build with webpack.  
+## This Blog was made in TypeScript with React JS, styled with Sass, Bootstrap and build with webpack.  
   
 ## External assets or library :  
   
