@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.7082ca2f.css",
-    "main.js": "/static/js/main.fcd9dae8.js",
+    "main.css": "/static/css/main.ec1ef617.css",
+    "main.js": "/static/js/main.d6bf6ee1.js",
     "static/js/496.837496b5.chunk.js": "/static/js/496.837496b5.chunk.js",
     "static/media/philosophers.png": "/static/media/philosophers.616ef8a19a097a713151.png",
     "static/media/cv-site-proj.png": "/static/media/cv-site-proj.601a4aa4706a2541dd98.png",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/pp.jpg": "/static/media/pp.730eee170d072edf3480.jpg",
     "static/media/earth-map.png": "/static/media/earth-map.feb5bfb7119f04f76863.png",
     "static/media/sass-original.svg": "/static/media/sass-original.fb123914eb0e5cc6e0a65e2928d89e2a.svg",
     "static/media/binaryTree.svg": "/static/media/binaryTree.2db3904d9193f89c0133d0cad4b35528.svg",
@@ -42,12 +43,12 @@
     "static/media/crud.svg": "/static/media/crud.86d9f211df0e8df2c18e6fe5b2c5f253.svg",
     "static/media/42_Logo.min.svg": "/static/media/42_Logo.min.7ce4704200fe3b80df0ba4309d86a725.svg",
     "static/media/fr.svg": "/static/media/fr.1a70e3178642a4ea4496fc48e6eec67f.svg",
-    "main.7082ca2f.css.map": "/static/css/main.7082ca2f.css.map",
-    "main.fcd9dae8.js.map": "/static/js/main.fcd9dae8.js.map",
+    "main.ec1ef617.css.map": "/static/css/main.ec1ef617.css.map",
+    "main.d6bf6ee1.js.map": "/static/js/main.d6bf6ee1.js.map",
     "496.837496b5.chunk.js.map": "/static/js/496.837496b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7082ca2f.css",
-    "static/js/main.fcd9dae8.js"
+    "static/css/main.ec1ef617.css",
+    "static/js/main.d6bf6ee1.js"
   ]
 }
