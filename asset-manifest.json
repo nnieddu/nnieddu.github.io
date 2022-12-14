@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec1ef617.css",
+    "main.css": "/static/css/main.3c27f3bc.css",
     "main.js": "/static/js/main.d6bf6ee1.js",
     "static/js/496.837496b5.chunk.js": "/static/js/496.837496b5.chunk.js",
     "static/media/philosophers.png": "/static/media/philosophers.616ef8a19a097a713151.png",
@@ -43,12 +43,12 @@
     "static/media/crud.svg": "/static/media/crud.86d9f211df0e8df2c18e6fe5b2c5f253.svg",
     "static/media/42_Logo.min.svg": "/static/media/42_Logo.min.7ce4704200fe3b80df0ba4309d86a725.svg",
     "static/media/fr.svg": "/static/media/fr.1a70e3178642a4ea4496fc48e6eec67f.svg",
-    "main.ec1ef617.css.map": "/static/css/main.ec1ef617.css.map",
+    "main.3c27f3bc.css.map": "/static/css/main.3c27f3bc.css.map",
     "main.d6bf6ee1.js.map": "/static/js/main.d6bf6ee1.js.map",
     "496.837496b5.chunk.js.map": "/static/js/496.837496b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec1ef617.css",
+    "static/css/main.3c27f3bc.css",
     "static/js/main.d6bf6ee1.js"
   ]
 }
