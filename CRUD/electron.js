@@ -4,9 +4,12 @@ const path = require("path");
 // Handle creating/removing shortcuts on Windows when installing/uninstalling.
 if (require("electron-squirrel-startup")) { app.quit(); }
 
+console.log(path.join(__dirname, './appIcons/appIcon.ico')); /////
+
 const createWindow = () => {
   let factor = screen.getPrimaryDisplay().scaleFactor;
   const mainWindow = new BrowserWindow({
+		icon: path.join(__dirname, './appIcons/appIcon.ico'),
     width: screen.getPrimaryDisplay().workArea.width / factor,
     height: screen.getPrimaryDisplay().workArea.height / factor,
     // frame: false,
@@ -18,7 +21,7 @@ const createWindow = () => {
   });
 
   // mainWindow.loadURL('http://localhost:3000');
-  mainWindow.loadFile(path.join(__dirname, "../build/index.html"));
+  mainWindow.loadFile(path.join(__dirname, "index.html"));
 
   // mainWindow.webContents.openDevTools();
 };
