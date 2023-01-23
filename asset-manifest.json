@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3c27f3bc.css",
-    "main.js": "/static/js/main.b02b8f09.js",
+    "main.js": "/static/js/main.498ad920.js",
     "static/js/496.837496b5.chunk.js": "/static/js/496.837496b5.chunk.js",
     "static/media/philosophers.png": "/static/media/philosophers.616ef8a19a097a713151.png",
     "static/media/cv-site-proj.png": "/static/media/cv-site-proj.601a4aa4706a2541dd98.png",
@@ -13,10 +13,8 @@
     "static/media/docker-original.svg": "/static/media/docker-original.1d41320cb0101dbbc6fe182abd590263.svg",
     "static/media/us.svg": "/static/media/us.241b539820c9c5f18f9212f1fbd38d8a.svg",
     "static/media/terminal.svg": "/static/media/terminal.0aa91ac727763e9f994d56077d75915b.svg",
-    "static/media/morpion.svg": "/static/media/morpion.6f274e0fc5ce780f1e40fa0c4039c5f1.svg",
     "static/media/chat.svg": "/static/media/chat.e9538c24a9e52eb8edc3a5c875d083c1.svg",
     "static/media/cube.svg": "/static/media/cube.ed7c3748108969ace16a913fd1859353.svg",
-    "static/media/hammer.svg": "/static/media/hammer.aef2dba58314b0bb7bab461779fce044.svg",
     "static/media/react-original.svg": "/static/media/react-original.4e0c97009b885bfa75c5412262a46f5f.svg",
     "static/media/discord-icon-light.svg": "/static/media/discord-icon-light.3c50d17a24c955e373ddd252e52f204f.svg",
     "static/media/discord-icon.svg": "/static/media/discord-icon.baf55d355c955a5f483196ba0e6d2bbe.svg",
@@ -45,11 +43,11 @@
     "static/media/42_Logo.min.svg": "/static/media/42_Logo.min.7ce4704200fe3b80df0ba4309d86a725.svg",
     "static/media/fr.svg": "/static/media/fr.1a70e3178642a4ea4496fc48e6eec67f.svg",
     "main.3c27f3bc.css.map": "/static/css/main.3c27f3bc.css.map",
-    "main.b02b8f09.js.map": "/static/js/main.b02b8f09.js.map",
+    "main.498ad920.js.map": "/static/js/main.498ad920.js.map",
     "496.837496b5.chunk.js.map": "/static/js/496.837496b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c27f3bc.css",
-    "static/js/main.b02b8f09.js"
+    "static/js/main.498ad920.js"
   ]
 }
