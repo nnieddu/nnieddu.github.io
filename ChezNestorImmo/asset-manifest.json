@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ChezNestorImmo/static/css/main.a852d91e.css",
+    "main.js": "/ChezNestorImmo/static/js/main.347f108d.js",
+    "static/media/backgroundHeader.jpg": "/ChezNestorImmo/static/media/backgroundHeader.09b08865d74ef2cd7303.jpg",
+    "static/media/Poppins-Regular.ttf": "/ChezNestorImmo/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/no-photo.svg": "/ChezNestorImmo/static/media/no-photo.5e2d4edc430a5360d3b5f8f2e20f469b.svg",
+    "index.html": "/ChezNestorImmo/index.html",
+    "main.a852d91e.css.map": "/ChezNestorImmo/static/css/main.a852d91e.css.map",
+    "main.347f108d.js.map": "/ChezNestorImmo/static/js/main.347f108d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a852d91e.css",
+    "static/js/main.347f108d.js"
+  ]
+}
