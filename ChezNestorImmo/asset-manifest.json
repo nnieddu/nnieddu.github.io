@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ChezNestorImmo/static/css/main.d4c78a68.css",
-    "main.js": "/ChezNestorImmo/static/js/main.f46f9eb9.js",
+    "main.css": "/ChezNestorImmo/static/css/main.5b8836bd.css",
+    "main.js": "/ChezNestorImmo/static/js/main.668823f8.js",
     "static/media/backgroundHeader.jpg": "/ChezNestorImmo/static/media/backgroundHeader.09b08865d74ef2cd7303.jpg",
     "static/media/Poppins-Regular.ttf": "/ChezNestorImmo/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
     "static/media/logo.png": "/ChezNestorImmo/static/media/logo.cab5a1a39f3a2df8cf0e.png",
     "static/media/no-photo.svg": "/ChezNestorImmo/static/media/no-photo.5e2d4edc430a5360d3b5f8f2e20f469b.svg",
     "index.html": "/ChezNestorImmo/index.html",
-    "main.d4c78a68.css.map": "/ChezNestorImmo/static/css/main.d4c78a68.css.map",
-    "main.f46f9eb9.js.map": "/ChezNestorImmo/static/js/main.f46f9eb9.js.map"
+    "main.5b8836bd.css.map": "/ChezNestorImmo/static/css/main.5b8836bd.css.map",
+    "main.668823f8.js.map": "/ChezNestorImmo/static/js/main.668823f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4c78a68.css",
-    "static/js/main.f46f9eb9.js"
+    "static/css/main.5b8836bd.css",
+    "static/js/main.668823f8.js"
   ]
 }
