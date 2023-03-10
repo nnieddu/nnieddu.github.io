@@ -9622,7 +9622,7 @@
           setIsLoggedIn: function () {},
           setIsLoading: function () {},
           setError: function () {},
-          apiKey: "AIzaSyBzf5muQO9foybKy1J8cBbFsX2u6HUodjw",
+          apiKey: void 0,
         }),
         O = function (t) {
           var n = t.children,
@@ -9718,14 +9718,7 @@
               setIsLoggedIn: m,
               isLoading: h,
               setIsLoading: y,
-              apiKey: {
-                NODE_ENV: "production",
-                PUBLIC_URL: "/ChezNestorImmo",
-                WDS_SOCKET_HOST: void 0,
-                WDS_SOCKET_PATH: void 0,
-                WDS_SOCKET_PORT: void 0,
-                FAST_REFRESH: !0,
-              }.REACT_APP_FIREBASE_API_KEY,
+              apiKey: "AIzaSyBzf5muQO9foybKy1J8cBbFsX2u6HUodjw",
             },
             children: n,
           });
